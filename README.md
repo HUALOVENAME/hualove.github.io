@@ -9,7 +9,7 @@
         <div class="video-player">
             <video controls preload="metadata">
                 <!-- 替换成你的视频链接 -->
-                <source src="https://www.w3school.com.cn/i/movie.mp4" type="video/mp4">
+                <source src="redpandacompress_3月12日.mp4">
                 你的浏览器不支持HTML5视频播放，请升级浏览器！
             </video>
         </div>
